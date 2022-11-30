@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dukavinod
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m a Data Engineer, expert in building ETL Data pipelines and maintaining them
+- 🌱 I’m Interested in Big Data Tools and Technologies
+- 💞️ Skilled at Apache Spark, Big Data Ecosystem, Predictive modelling and Analytics using ML.
 - 📫 How to reach me : DM in linkedin : Vinod Kumar Dukanam
 
 <!---
